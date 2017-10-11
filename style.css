@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+.mosaiks {
+    width: 90vh;
+    margin: auto;
+    margin-top: 25vh;
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black;
+    flex: 1;
+}
+.mosaik { 
+    margin: 0;
+    flex-grow: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.ratio {
+    position: relative;
+    flex-grow: 1;
+    background-color: #000;
+}
+.ratio:before {
+	content: "";
+	display: block;
+	padding-top: 100%; 	/* initial ratio of 1:1*/
+}
+.innerRatio {
+    position: relative;
+    width: 33%;
+    flex-grow: 1;
+    background-color: #FFF;
+}
+.innerRatio::before {
+    content: "";
+    padding-top: 100%;
+    display: block;
+}
+.mosaik .innerRatio div {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.mosaik .innerRatio div::before {
+    content: "";
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 1);
+    background-image:
+        linear-gradient(180deg, transparent 50%, white 50%),
+        linear-gradient(90deg, white 50%, transparent 50%);
+}
+
+.mosaik .innerRatio div.q0::before {
+    display: none;
+}
+
+.mosaik .innerRatio div.q1::before {
+    top: 0;
+    right: 0;
+}
+
+.mosaik .innerRatio div.q2::before {
+    top: 0;
+    left: 0;
+}
+
+.mosaik .innerRatio div.q3::before {
+    bottom: 0;
+    left: 0;
+}
+
+.mosaik .innerRatio div.q4::before {
+    bottom: 0;
+    right: 0;
+}
