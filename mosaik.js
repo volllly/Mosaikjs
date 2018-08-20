@@ -2,7 +2,7 @@ function mosaik(_param) {
     if(!("selector" in _param)) {
         _param["selector"] = "mosaik";
     }
-    var mosaiks = document.querySelectorAll("." + _param["selector"]);
+    var mosaiks = document.querySelectorAll(_param["selector"]);
     for(var i = 0; i < mosaiks.length; i++) {
         set_mosaik(mosaiks[i]);
     }
@@ -12,9 +12,9 @@ function mosaik(_param) {
         _mosaik.innerHTML = "";
         for(var i = 1; i <= 9; i++) {
             var div = document.createElement("div");
-            div.className = "_" + i;
+            //div.className = "_" + i;
             var wrapper = document.createElement("div");
-            wrapper.className = "innerRatio";
+            wrapper.className = "innerRatio " + "_" + i;
             wrapper.appendChild(div);
             _mosaik.appendChild(wrapper);
         }
@@ -824,7 +824,7 @@ var alphabet = {
         },
         {
             "domino": [
-                [1, 2],
+                [1, 1],
                 [3, 3],
                 [0, 0]
             ],
@@ -1054,6 +1054,106 @@ var alphabet = {
             "side": {
                 "left": true,
                 "right": true
+            }
+        }
+    ],
+    "t": [
+        {
+            "domino": [
+                [2, 1],
+                [2, 0],
+                [3, 0]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [2, 1],
+                [0, 1],
+                [0, 4]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [2, 1],
+                [2, 0],
+                [0, 0]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 1
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [2, 1],
+                [0, 1],
+                [0, 0]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [2, 0],
+                [3, 0],
+                [3, 0]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        }
+    ],
+    "u": [
+        {
+            "domino": [
+                [3, 4],
+                [0, 0],
+                [0, 0]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 2
+            },
+            "side": {
+                "left": true,
+                "right": false
             }
         }
     ],
