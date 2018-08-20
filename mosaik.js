@@ -1,6 +1,6 @@
 function mosaik(_param) {
     if(!("selector" in _param)) {
-        _param["selector"] = "mosaik";
+        _param["selector"] = ".mosaik";
     }
     var mosaiks = document.querySelectorAll(_param["selector"]);
     for(var i = 0; i < mosaiks.length; i++) {
