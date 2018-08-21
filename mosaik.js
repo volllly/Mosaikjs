@@ -112,7 +112,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [0, 0],
-                [2, 1]
+                [2, 1],
             ],
             "submissive": false,
             "movement": {
@@ -128,7 +128,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [2, 1],
-                [3, 4]
+                [3, 4],
             ],
             "submissive": false,
             "movement": {
@@ -146,7 +146,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [4, 0],
-                [1, 0]
+                [1, 0],
             ],
             "submissive": true,
             "movement": {
@@ -162,7 +162,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [1, 0],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": true,
             "movement": {
@@ -180,7 +180,7 @@ var alphabet = {
             "domino": [
                 [2, 0],
                 [3, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -198,7 +198,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [4, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -216,7 +216,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [1, 0],
-                [1, 0]
+                [1, 0],
             ],
             "submissive": true,
             "movement": {
@@ -232,7 +232,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [4, 0],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": true,
             "movement": {
@@ -248,7 +248,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [1, 0],
-                [1, 0]
+                [1, 0],
             ],
             "submissive": true,
             "movement": {
@@ -264,7 +264,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [4, 0],
-                [1, 0]
+                [1, 0],
             ],
             "submissive": true,
             "movement": {
@@ -282,7 +282,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [1, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -298,7 +298,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [4, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -314,7 +314,7 @@ var alphabet = {
             "domino": [
                 [0, 1],
                 [0, 1],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -330,7 +330,7 @@ var alphabet = {
             "domino": [
                 [0, 4],
                 [0, 4],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -346,7 +346,7 @@ var alphabet = {
             "domino": [
                 [0, 1],
                 [0, 1],
-                [2, 0]
+                [2, 0],
             ],
             "submissive": true,
             "movement": {
@@ -362,7 +362,7 @@ var alphabet = {
             "domino": [
                 [0, 4],
                 [0, 4],
-                [2, 0]
+                [2, 0],
             ],
             "submissive": true,
             "movement": {
@@ -380,7 +380,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -396,7 +396,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [3, 1]
+                [3, 1],
             ],
             "submissive": true,
             "movement": {
@@ -412,7 +412,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [3, 4]
+                [3, 4],
             ],
             "submissive": true,
             "movement": {
@@ -430,7 +430,7 @@ var alphabet = {
             "domino": [
                 [1, 2],
                 [4, 3],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": false,
             "movement": {
@@ -446,7 +446,7 @@ var alphabet = {
             "domino": [
                 [1, 2],
                 [0, 0],
-                [4, 3]
+                [4, 3],
             ],
             "submissive": false,
             "movement": {
@@ -464,7 +464,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [1, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -480,7 +480,7 @@ var alphabet = {
             "domino": [
                 [3, 0],
                 [2, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -496,7 +496,7 @@ var alphabet = {
             "domino": [
                 [2, 0],
                 [1, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -512,7 +512,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [3, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -528,7 +528,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [1, 0],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": true,
             "movement": {
@@ -544,7 +544,7 @@ var alphabet = {
             "domino": [
                 [2, 0],
                 [2, 0],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -560,7 +560,7 @@ var alphabet = {
             "domino": [
                 [2, 0],
                 [1, 0],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": true,
             "movement": {
@@ -576,7 +576,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [2, 0],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -594,7 +594,7 @@ var alphabet = {
             "domino": [
                 [2, 0],
                 [3, 0],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -610,7 +610,7 @@ var alphabet = {
             "domino": [
                 [0, 2],
                 [0, 3],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": false,
             "movement": {
@@ -626,7 +626,7 @@ var alphabet = {
             "domino": [
                 [0, 1],
                 [0, 4],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": false,
             "movement": {
@@ -644,7 +644,7 @@ var alphabet = {
             "domino": [
                 [2, 4],
                 [3, 1],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": false,
             "movement": {
@@ -660,7 +660,7 @@ var alphabet = {
             "domino": [
                 [2, 4],
                 [0, 0],
-                [3, 1]
+                [3, 1],
             ],
             "submissive": false,
             "movement": {
@@ -676,7 +676,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [0, 0],
-                [1, 0]
+                [1, 0],
             ],
             "submissive": true,
             "movement": {
@@ -692,7 +692,7 @@ var alphabet = {
             "domino": [
                 [4, 0],
                 [1, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -710,7 +710,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [4, 0],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": true,
             "movement": {
@@ -726,7 +726,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [4, 0],
-                [0, 4]
+                [0, 4],
             ],
             "submissive": false,
             "movement": {
@@ -742,7 +742,7 @@ var alphabet = {
             "domino": [
                 [2, 0],
                 [3, 0],
-                [0, 4]
+                [0, 4],
             ],
             "submissive": false,
             "movement": {
@@ -760,7 +760,7 @@ var alphabet = {
             "domino": [
                 [1, 1],
                 [0, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": false,
             "movement": {
@@ -776,7 +776,7 @@ var alphabet = {
             "domino": [
                 [1, 1],
                 [4, 3],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": false,
             "movement": {
@@ -794,7 +794,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [0, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -810,7 +810,7 @@ var alphabet = {
             "domino": [
                 [0, 0],
                 [1, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -826,7 +826,7 @@ var alphabet = {
             "domino": [
                 [1, 1],
                 [3, 3],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": false,
             "movement": {
@@ -844,7 +844,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": false,
             "movement": {
@@ -862,7 +862,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": false,
             "movement": {
@@ -878,7 +878,7 @@ var alphabet = {
             "domino": [
                 [0, 1],
                 [0, 4],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -894,7 +894,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [4, 0],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -910,7 +910,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [1, 0],
-                [4, 0]
+                [4, 0],
             ],
             "submissive": true,
             "movement": {
@@ -928,7 +928,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [0, 4]
+                [0, 4],
             ],
             "submissive": true,
             "movement": {
@@ -946,7 +946,7 @@ var alphabet = {
             "domino": [
                 [1, 0],
                 [0, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
@@ -962,7 +962,7 @@ var alphabet = {
             "domino": [
                 [0, 0],
                 [0, 0],
-                [1, 0]
+                [1, 0],
             ],
             "submissive": true,
             "movement": {
@@ -978,7 +978,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 4],
-                [1, 1]
+                [1, 1],
             ],
             "submissive": false,
             "movement": {
@@ -996,7 +996,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 1],
-                [3, 4]
+                [3, 4],
             ],
             "submissive": true,
             "movement": {
@@ -1012,7 +1012,7 @@ var alphabet = {
             "domino": [
                 [2, 4],
                 [3, 1],
-                [2, 4]
+                [2, 4],
             ],
             "submissive": true,
             "movement": {
@@ -1028,7 +1028,7 @@ var alphabet = {
             "domino": [
                 [2, 4],
                 [3, 1],
-                [3, 4]
+                [3, 4],
             ],
             "submissive": true,
             "movement": {
@@ -1044,7 +1044,7 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [3, 1],
-                [2, 4]
+                [2, 4],
             ],
             "submissive": true,
             "movement": {
@@ -1062,11 +1062,11 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [2, 0],
-                [3, 0]
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
-                "h": 1,
+                "h": 0,
                 "v": 0
             },
             "side": {
@@ -1078,11 +1078,11 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [0, 1],
-                [0, 4]
+                [0, 4],
             ],
             "submissive": true,
             "movement": {
-                "h": 1,
+                "h": 0,
                 "v": 0
             },
             "side": {
@@ -1094,11 +1094,11 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [2, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
-                "h": 1,
+                "h": 0,
                 "v": 1
             },
             "side": {
@@ -1110,11 +1110,11 @@ var alphabet = {
             "domino": [
                 [2, 1],
                 [0, 1],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
-                "h": 1,
+                "h": 0,
                 "v": 1
             },
             "side": {
@@ -1124,9 +1124,89 @@ var alphabet = {
         },
         {
             "domino": [
+                [2, 0],
                 [2, 0],
                 [3, 0],
-                [3, 0]
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [2, 0],
+                [3, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [0, 1],
+                [0, 4],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [2, 0],
+                [0, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [0, 1],
+                [0, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [3, 0],
+                [2, 0],
+                [3, 0],
             ],
             "submissive": true,
             "movement": {
@@ -1144,16 +1224,314 @@ var alphabet = {
             "domino": [
                 [3, 4],
                 [0, 0],
-                [0, 0]
+                [0, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [0, 0],
+                [3, 4],
+                [0, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        }
+    ],
+    "v": [
+        {
+            "domino": [
+                [3, 0],
+                [0, 0],
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
                 "h": 1,
-                "v": 2
+                "v": 1
             },
             "side": {
                 "left": true,
                 "right": false
+            }
+        },
+        {
+            "domino": [
+                [0, 0],
+                [3, 0],
+                [0, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 1
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [4, 0],
+                [0, 0],
+                [0, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 1
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [0, 0],
+                [4, 0],
+                [0, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 1,
+                "v": 1
+            },
+            "side": {
+                "left": true,
+                "right": false
+            }
+        }
+    ],
+    "w": [
+        {
+            "domino": [
+                [3, 4],
+                [3, 4],
+                [0, 0],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": true,
+                "right": true
+            }
+        }
+    ],
+    "x": [
+        {
+            "domino": [
+                [3, 4],
+                [2, 1],
+                [0, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [0, 0],
+                [2, 1],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        }
+    ],
+    "y": [
+        {
+            "domino": [
+                [3, 4],
+                [4, 0],
+                [0, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [3, 0],
+                [0, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 1
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [0, 0],
+                [4, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [0, 0],
+                [3, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [2, 0],
+                [3, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [1, 0],
+                [4, 0],
+            ],
+            "submissive": false,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": false,
+                "right": false
+            }
+        }
+    ],
+    "z": [
+        {
+            "domino": [
+                [3, 4],
+                [3, 1],
+                [2, 1],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [2, 4],
+                [3, 1],
+                [2, 4],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [3, 4],
+                [3, 1],
+                [2, 4],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": true
+            }
+        },
+        {
+            "domino": [
+                [2, 4],
+                [3, 1],
+                [2, 1],
+            ],
+            "submissive": true,
+            "movement": {
+                "h": 0,
+                "v": 0
+            },
+            "side": {
+                "left": true,
+                "right": true
             }
         }
     ],
@@ -1162,7 +1540,7 @@ var alphabet = {
             "domino": [
                 [0, 0],
                 [0, 0],
-                [0, 0]
+                [0, 0],
             ],
             "submissive": true,
             "movement": {
